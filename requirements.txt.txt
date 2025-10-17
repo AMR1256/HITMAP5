@@ -1,6 +1,6 @@
-streamlit
+scikit-learn
 pandas
 numpy
-scikit-learn
-folium
-streamlit-folium
+streamlit
+matplotlib
+seaborn
